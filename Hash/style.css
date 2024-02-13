@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    width: 400px;
+    height: 80vh;
+    margin: 0px auto;
+    background-color: red;
+}
+main h1{
+    text-align: center;
+    padding-top: 180px;
+}
+nav{
+    background-color: azure;
+    display: flex;
+    margin: 0px auto;
+    height: 40px;
+    width: 390px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
